@@ -7,7 +7,7 @@ This pizza order dashboard visualizes key metrics and trends related to a pizza 
 
 ## DataSet
 <a href="https://github.com/SandaminiW/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Analysis.xlsx">DataSet</a>
-(Kaggle Wbesit)
+(Kaggle Webesit)
 
 ## KPI’s REQUIREMENT
 
